@@ -1,0 +1,21 @@
+{
+  "name": "apiusers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "create-react-app": "^3.4.1",
+    "express": "^4.17.1",
+    "g": "^2.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "teste Emilia"
+  },
+  "repository": {
+    "type": "git",
+    "url": "PrimeiraAulaNodeExpress"
+  },
+  "author": "Emilia Hiratuka",
+  "license": "ISC"
+}
